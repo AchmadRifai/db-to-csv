@@ -1,0 +1,6 @@
+github.com/AchmadRifai/array-utils v1.0.1 h1:uTfSe839x3MPYi9ugcNas2nEx+jN7XwhNdYQn+NO2CU=
+github.com/AchmadRifai/array-utils v1.0.1/go.mod h1:Vc4BbKhoMFRXKg802UCRy0eIC3r1QiQYe4XsuK7gy6c=
+github.com/AchmadRifai/sql-utils v1.0.2 h1:LKodBf0ojdj1UcnqXtXYWC6Q7Re1vfwT35j7kodI88Q=
+github.com/AchmadRifai/sql-utils v1.0.2/go.mod h1:pf55hfTTU84C4ki9xpO9jv58yoqLDgounWYmj886yG8=
+github.com/golang-collections/collections v0.0.0-20130729185459-604e922904d3 h1:zN2lZNZRflqFyxVaTIU61KNKQ9C0055u9CAfpmqUvo4=
+github.com/golang-collections/collections v0.0.0-20130729185459-604e922904d3/go.mod h1:nPpo7qLxd6XL3hWJG/O60sR8ZKfMCiIoNap5GvD12KU=
